@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/luckydixit0464/90daysleetcode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/luckydixit0464/90daysleetcode/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/luckydixit0464/90daysleetcode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/luckydixit0464/90daysleetcode/tree/master/0283-move-zeroes) |
 ## Tree
 |  |
